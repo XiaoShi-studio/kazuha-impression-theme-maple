@@ -1,4 +1,4 @@
-# kazuha-impression-feng-theme 枫原万叶印象主题
+# kazuha-impression-maple-theme 枫原万叶印象主题 · 枫
 
 ## Preview (预览)
 Please to `images/preview.png`
@@ -67,4 +67,4 @@ Developed by Xiaoshi
 # 玩得开心！
 ### 开发 by 小石
 ---
-character designs © miHoYo/HoYovers.
+character designs © miHoYo/HoYoverse.

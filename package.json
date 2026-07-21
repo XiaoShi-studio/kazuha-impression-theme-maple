@@ -1,12 +1,12 @@
 {
-  "name": "kazuha-impression-theme-maple",
-  "displayName": "枫原万叶印象主题-枫",
+  "name": "kazuha-impression-maple-theme",
+  "displayName": "枫原万叶印象主题 · 枫",
   "description": "一款枫原万叶印象主题",
   "license":"MIT",
   "version": "0.0.3",
-  "keywords": ["枫原万叶","万叶","kazuha","原神","Genshin Impact","light","warm","枫","秋"],
+  "keywords": ["枫原万叶","万叶","kazuha","原神","Genshin","Impact","light","warm","枫","秋"],
   "author": {
-    "name": "小石"
+    "name": "XiaoShi"
   },
   "publisher": "XiaoShi",
   "engines": {
@@ -22,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "枫原万叶印象主题-枫",
+        "label": "枫原万叶印象主题 · 枫",
         "uiTheme": "vs",
         "path": "./themes/kazuha-impression-maple-color-theme.json"
       }
