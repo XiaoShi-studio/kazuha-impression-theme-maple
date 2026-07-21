@@ -1,8 +1,11 @@
 # kazuha-impression-feng-theme 枫原万叶印象主题
 
 ## Preview (预览)
-Chinese Interface
-Please wait, the picture is pushing...
+Please to `images/preview.png`
+
+click this >>> [Github](https://github.com/XiaoShi-studio/kazuha-impression-theme-maple/) <<<
+
+![Preview](images/preview.png)
 
 # English version
 下有中文版

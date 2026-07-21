@@ -15,6 +15,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XiaoShi-studio/kazuha-impression-theme-maple/"
+  },
   "contributes": {
     "themes": [
       {
